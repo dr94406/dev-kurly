@@ -77,8 +77,6 @@
 
 > Git, Slack, Notion 설정 및 문서화 주도
 
-<img src="https://file.notion.so/f/s/9e0b487a-f040-4375-8684-ea0c872f03ee/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.07.25.png?id=bc9dd123-cae2-455b-9409-ab51382e34c6&table=block&spaceId=b59f0e2b-5f35-49f2-bba9-712df8ec6fbb&expirationTimestamp=1685345736705&signature=NrS34-HPTNpaMqwWs-Kdw1p4V45bIvqDoeM8UV8j9nI&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-04-16+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+3.07.25.png" widht="500" height="500">
-
 프로젝트 시작 후 진행 상황에 차질이 생겨
 
 **팀원들에게 문서화의 필요성 강조 및 도입**을 통해
